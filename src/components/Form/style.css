@@ -1,0 +1,69 @@
+.form {
+    position: absolute;
+    z-index: 10;
+    padding-top: 380px;
+    width: 430px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+
+
+.input-center {
+    position: absolute;
+    top: 430px;
+    right: 37px;
+    padding: 10px 180px 10px 5px;
+    border-radius: 5px;
+    border: 1px solid;
+    
+}
+
+
+.input-error {
+    background: #FFC0CB;
+    border: 1px solid red;
+}
+
+
+.text-error {
+    color: red;
+}
+
+
+.email {
+    position: absolute;
+    top: 400px;
+    right: 260px;
+    font-weight: 700;
+}
+
+
+.btn {
+    position: absolute;
+    top: 490px;
+    padding: 12px 65px 12px 60px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: white;
+    background: #483D8B;
+    font-weight: 700;
+    border: none;
+    cursor: pointer;
+}
+
+
+.error {
+    display: block;
+    margin-left: 220px;
+    margin-top: 18px;
+    color: red;
+}
+
+
+
+
+
+
